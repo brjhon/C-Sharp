@@ -1,0 +1,42 @@
+     Qual e a base? 
+
+function welcome(props) {
+    return <h1> hello, {props.name} </h1>;
+} 
+
+===================
+## Sem instalação --Tudo se liga, conforme esta a baixo.
+    -Variveis ----Tem que se conhecer Variveis para conseguir entender objeto.
+        - Const, let, Var
+        - Tipos de dados do JavaScript:
+            string
+            bool
+            array
+            objeto
+
+    -Objeto ---Tem que se conhecer objeto para entender funçao.
+        -Acessar propriedade de objeto
+            -Via .
+            -Via string
+
+    -Função ---Tem que se conhecer Função para entender JSX.
+        -Execuçaõ de códigos
+        -Parametros
+        -Retorno
+
+    - JSX
+        -HTML dentro do arquivo JavaScript
+        -{props.name} Interpulação
+            -como rodar codigos dinamicos no meio do template JSX
+
+===================
+## Com instalação
+- Node 
+    - Como instalar?
+    - Pra que serve?
+- Package Manegers
+    - Pra que serve?
+    - como instala algo?
+    - Como cria um projeto?
+        
+        
