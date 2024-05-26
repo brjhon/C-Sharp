@@ -19,6 +19,9 @@ function welcome(props) {
             -Via .
             -Via string
 
+    - Arrays
+        -Métodos de Arrays
+
     -Função ---Tem que se conhecer Função para entender JSX.
         -Execuçaõ de códigos
         -Parametros
